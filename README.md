@@ -40,3 +40,6 @@ Open the URL that you see in your browser.
 ## The API
 
 This application is designed to interact with a Rock of Ages API. By default, it sends requests to the Nashville Software School’s deployed instance of the API. The base URL for the API is defined in the .env file using a `VITE_API_URL` environment variable, which is accessed in the application's components via import.meta.env.
+
+## Examining CI/CD
+This block added as a new push to see how it the deploying takes place while changes happen
